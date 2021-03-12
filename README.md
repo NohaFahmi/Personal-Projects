@@ -4,7 +4,7 @@ These are personal project created by me while learning new different technologi
 ## List of Projects
 
 1. [NPA Teams Website](https://npateams.netlify.app/)
-  This is a MERN stach Application, The frontend part is built with ReactJS and the backend part is built with Node.js and MonogDB. The backend Part is running [here](https://npabackendapis.nohaa.repl.co/).
+  This is a MERN stack Application, The frontend part is built with ReactJS and the backend part is built with Node.js and MonogDB. The backend Part is running [here](https://npabackendapis.nohaa.repl.co/).
   you can view repo from [here](https://github.com/NohaaAa/NohaaAa-npa-teams-website)
   
 2. [testimonials grid section](https://testimonial-grid-website.netlify.app/)
