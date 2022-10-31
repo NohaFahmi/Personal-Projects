@@ -31,4 +31,24 @@ These are personal project created by me while learning new different technologi
   This is a frontend challenge from 1M Arab Coders community. the challenge is to build a simple design for a character card inside a game.
   Here is a [repo](https://github.com/NohaaAa/Frontend-challenges-1M-Arab-Coders)
   
+    
+8. [Rock Paper Scissors Game](https://rock-paper-scissors-game-challenge.vercel.app/)
+   This is a Frontend challenge provided from [Frontend Mentors](https://www.frontendmentor.io/), A Game made using React.js
+  you can view repo from [here](https://github.com/NohaaAa/frontend-mentor-challenge-rock-paper-scissors-game)
   
+  
+9. [Advice Generator](https://github.com/NohaaAa/frontend-mentor-challenge-advice-generator-app)
+   This is a Frontend challenge provided from [Frontend Mentors](https://www.frontendmentor.io/), An advice generator website made using React.js
+  you can view repo from [here](https://github.com/NohaaAa/frontend-mentor-challenge-advice-generator-app)
+  
+10. [Easy Bank Landing Page](https://easybank-landing-page-website.netlify.app/)
+   This is a Frontend challenge provided from [Frontend Mentors](https://www.frontendmentor.io/), Responsive landing page using HTML, CSS and JS
+  you can view repo from [here](https://github.com/NohaaAa/easybank-landing-page-master)
+
+11. [Rest Countries App](https://frontend-mentor-challenge-rest-countries-app.vercel.app/)
+   This is a Frontend challenge provided from [Frontend Mentors](https://www.frontendmentor.io/),countries list website made using React.js with typescript and ChakraUI
+  you can view repo from [here](https://github.com/NohaaAa/frontend-mentor-challenge-rest-countries-app)
+  
+12. [Expenses Chart Component](https://frontend-mentor-challenge-expenses-chart-component-main.vercel.app/)
+   This is a Frontend challenge provided from [Frontend Mentors](https://www.frontendmentor.io/), Chart component made using Html, css and JS
+  you can view repo from [here](https://github.com/NohaaAa/Frontend-Mentor-Challenge-expenses-chart-component-main)
